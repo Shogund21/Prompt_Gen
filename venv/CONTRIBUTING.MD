@@ -1,0 +1,1 @@
+We welcome contributions to the Domain-Specific Prompt Generation Library! Whether you're looking to fix bugs, add new features, or improve documentation, your help is appreciated. Please see our CONTRIBUTING.md file for more information on how to get started.
