@@ -13,7 +13,7 @@ Before you begin, ensure you have the following installed:
 Python 3.6 or higher
 Installation
 1. Clone the Repository:
-git clone https://github.com/yourusername/prompt_gen_library.git
+git clone https://github.com/Shogund21/prompt_gen_library.git
 2. Navigate to the Project Directory:
 cd prompt_gen_library
 3. Create and Activate a Virtual Environment:
