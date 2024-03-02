@@ -1,4 +1,4 @@
-Domain-Specific Prompt Generation Library
+
 
 Welcome to the Domain-Specific Prompt Generation Library, a Python library designed to streamline the creation and customization of prompts for customer service chatbots. This project aims to enhance user interaction by providing a simple yet powerful interface for generating, customizing, and improving chatbot prompts. Whether you're building a chatbot for order inquiries, product information, or customer support, our library can help you make your bot more engaging and effective.
 
@@ -29,7 +29,7 @@ Usage
 Here's how to use the Domain-Specific Prompt Generation Library in your Python projects:
 1.  Generating a Basic Prompt:
     from prompt_gen_library.generator import generate_prompt
-
+Domain-Specific Prompt Generation Library
 welcome_prompt = generate_prompt("welcome")
 print(welcome_prompt)
 2.  Customizing a Prompt:
