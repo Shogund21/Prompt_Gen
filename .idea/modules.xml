@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Domain-Prompts/.idea/Domain-Prompts.iml" filepath="$PROJECT_DIR$/Domain-Prompts/.idea/Domain-Prompts.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Prompt_Gen.iml" filepath="$PROJECT_DIR$/.idea/Prompt_Gen.iml" />
     </modules>
   </component>
